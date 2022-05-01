@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "5b1d6978d8845d08",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a9a1726a2ff0d91",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sessioni/Sessione 1.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "45853642b23df866",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9334703b9ab92a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7e9bdef94058586",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f55e46c8f2e368cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f9a9b6180db5c767",
+    "type": "split",
+    "children": [
+      {
+        "id": "567a7b2d39c0f146",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b28fd907f5acf94",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sessioni/Sessione 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "1a9a1726a2ff0d91",
+  "lastOpenFiles": [
+    "Sessioni/Sessione 1.md"
+  ]
+}

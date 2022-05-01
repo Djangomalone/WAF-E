@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "3c00f03489b86adf",
+    "type": "split",
+    "children": [
+      {
+        "id": "383642a1f67ed3e1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "We Are Fantasy 2/Sessioni/Presessione.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "03473b67ec871803",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5ff6546a45fd4c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89b1e736f458bdb5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a99d091d2b173f4b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "10a3a977cae8e650",
+    "type": "split",
+    "children": [
+      {
+        "id": "913fd0db789a2dff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99ae72e78e78fc5c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "We Are Fantasy 2/Sessioni/Presessione.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "383642a1f67ed3e1",
+  "lastOpenFiles": [
+    "We Are Fantasy 2/Sessioni/Presessione.md"
+  ]
+}

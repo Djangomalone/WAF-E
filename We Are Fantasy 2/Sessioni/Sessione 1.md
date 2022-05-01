@@ -3,7 +3,7 @@ Sessione precedente: [[Presessione]]
 Sessione sucessiva: [[Sessione 2]]
 Personaggi in gioco: [[Ulfric]] [[Durduk]] [[Enkh]] [[Vex]] [[Fabio]]
 Npc: [[Ron]]
-Luoghi: [[Siste Gerde]] 
+Luoghi: [[Siste Gerde]], Strada per [[Melancholy]]
 Tag: #sessione 
 
 ---

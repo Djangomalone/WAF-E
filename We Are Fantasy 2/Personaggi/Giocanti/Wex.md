@@ -1,6 +1,6 @@
 Tag: #personaggio
 Giocatore: Catto
-Nome: Vex
+Nome: [[Vex]]
 Cognome: 
 Classe: Mago delle Illusioni
 Razza: Umano

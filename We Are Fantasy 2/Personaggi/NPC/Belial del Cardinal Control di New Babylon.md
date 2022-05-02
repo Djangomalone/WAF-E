@@ -1,5 +1,5 @@
 Tag: #NPC
-Nome: Beal
+Nome: Belial
 Cognome: 
 Classe: Dio
 Razza: [[Seleniti]]

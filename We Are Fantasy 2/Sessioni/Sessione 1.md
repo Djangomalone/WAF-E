@@ -1,7 +1,7 @@
 Data: 14/04/2022
 Sessione precedente: [[Presessione]]
 Sessione sucessiva: [[Sessione 2]]
-Personaggi in gioco: [[Ulfric]] [[Durduk]] [[Enkh]] [[Vex]] [[Fabio]]
+Personaggi in gioco: [[Ulfric]] [[Durduk]] [[Enkh]] [[Wex]] [[Fabio]]
 Npc: [[Ron]]
 Luoghi: [[Siste Gerde]], Strada per [[Melancholy]]
 Tag: #sessione 
@@ -11,18 +11,18 @@ Strana musica, stanza sfarzosa con una scrivania. Dietro la scrivania un essere 
 
 ----
 La capsula di [[Fabio]] si apre e lui inveisce contro i [[Seleniti]], preparandosi alla battaglia e lentamente si allontana nella tempesta di neve che imperversa intorno a lui.
-Con la mano evocata che lo guida verso Sud, [[Fabio]] avanza nella tormenta. Ad un certo punto sente delle voci e, arrivando in cima alla collina, vede [[Enkh]] [[Ulfric]] [[Vex]] [[Durduk]] combattere contro degli [[Albinos]]. 
+Con la mano evocata che lo guida verso Sud, [[Fabio]] avanza nella tormenta. Ad un certo punto sente delle voci e, arrivando in cima alla collina, vede [[Enkh]] [[Ulfric]] [[Wex]] [[Durduk]] combattere contro degli [[Albinos]]. 
 
 ----
 Precedentemente, a [[Siste Gerde]] nell'osteria [[il Guercio]], [[Enkh]] e [[Durduk]] scendono nella mensa. [[Enkh]] cerca lavoro e chiede aiuto a [[Ron]], ma non c'è tanto lavoro, così [[Durduk]] valuta con [[Lambert]] di reclutare il [[Firbolg]] per il legno delle foreste. [[Lambert]] tira fuori banconote provenienti da [[Absula]] e parla di creature esotiche pagate bene e poi se ne va. [[Durduk]] cerca di coinvolgere [[Enkh]] nei suoi affari.
 
-Nel frattempo [[Vex]] è nella stanza di [[Thorul]], ma quest'ultimo sta tornando. Un corvo bussa alla finestra, porta un messaggio:
+Nel frattempo [[Wex]] è nella stanza di [[Thorul]], ma quest'ultimo sta tornando. Un corvo bussa alla finestra, porta un messaggio:
 > Dalla Guardia di [[Melancholy]]
 > Le guardie hanno notato un avamposto più ad Ovest rispetto alla città, con simbolo di piovra ghiacciata, con gli [[Albinos]] nelle vicinanze. Si dice che [[Gunnar]] sia tra loro.
 
-Scendendo le scale, [[Vex]] incontra [[Hilde]], ora moglie di [[Gandr]]. Adesso non è vestita da infermiera, ma è vestita da milady. Raggiunge la sala dello Jarl, dove [[Gandr]] comanda e gli fa vedere il messaggio. [[Vex]] decide di prendersi la responsabilità, perché sta tornando [[Thorul]], che infatti arriva al porto. Parlano del più e del meno, ma [[Thorul]] cerca anche [[Hun]], che doveva essere già arrivato e [[Vex]] si avvia verso la taverna di [[Ron]] dove assume [[Enkh]] per fare da guida fino a [[Melancholy]]. 
-Nel frattempo [[Vex]] parla con [[Thorul]] e parlano dell'origine del mondo, parlano di [[Begnion]] e di come un alleanza gioverebbe al momento. Segnala [[Enkh]] a [[Thorul]].
-[[Borg]] chiama [[Ulfric]] per andare da [[Gandr]] e spiegargli di [[Gunnar]]. La [[Ronda abissale]] ha mosso molti soldati verso [[Betecoy]], la missione è semplice: terminare [[Gunnar]]. Nella torre, [[Ulfric]] abbraccia [[Vex]] e [[Thorul]], e raconta a quest'ultimo che sua moglie [[Torvi]] ha avuto un figlio, [[Ragnar]]. [[Ulfric]] e [[Vex]] parlano a lungo. Poi [[Vex]] incontra [[Thorstein]], che gli parla di [[Durduk]], a quanto pare i due fanno affari. [[Durduk]] diventa una specie di guardia del corpo di [[Vex]] e [[Ulfric]]. 
+Scendendo le scale, [[Wex]] incontra [[Hilde]], ora moglie di [[Gandr]]. Adesso non è vestita da infermiera, ma è vestita da milady. Raggiunge la sala dello Jarl, dove [[Gandr]] comanda e gli fa vedere il messaggio. [[Wex]] decide di prendersi la responsabilità, perché sta tornando [[Thorul]], che infatti arriva al porto. Parlano del più e del meno, ma [[Thorul]] cerca anche [[Hun]], che doveva essere già arrivato e [[Wex]] si avvia verso la taverna di [[Ron]] dove assume [[Enkh]] per fare da guida fino a [[Melancholy]]. 
+Nel frattempo [[Wex]] parla con [[Thorul]] e parlano dell'origine del mondo, parlano di [[Begnion]] e di come un alleanza gioverebbe al momento. Segnala [[Enkh]] a [[Thorul]].
+[[Borg]] chiama [[Ulfric]] per andare da [[Gandr]] e spiegargli di [[Gunnar]]. La [[Ronda abissale]] ha mosso molti soldati verso [[Betecoy]], la missione è semplice: terminare [[Gunnar]]. Nella torre, [[Ulfric]] abbraccia [[Wex]] e [[Thorul]], e raconta a quest'ultimo che sua moglie [[Torvi]] ha avuto un figlio, [[Ragnar]]. [[Ulfric]] e [[Wex]] parlano a lungo. Poi [[Wex]] incontra [[Thorstein]], che gli parla di [[Durduk]], a quanto pare i due fanno affari. [[Durduk]] diventa una specie di guardia del corpo di [[Wex]] e [[Ulfric]]. 
 
 ---
 Da [[Hvilested]] verso Est, sulla strada dei 100 [[Firbolg]] verso [[Melancholy]].
@@ -30,7 +30,7 @@ Tra [[Siste Gerde]] e [[Hvilested]] ci vuole una settimana. Alla partenza, [[Enk
 Nel gruppo c'è anche [[Ghost]], una recluta semplice. Descrizione del gruppo. 
 Dopo qualche giorno sta per arrivare una tempesta, brutto segno per i [[Firbolg]]. La tempesta sorprende tutti e [[Durduk]] è in difficoltà. Nel mezzo della ormenta, delle figure a cavallo, con al seguito una figura che si muove a serpentina.
 
-#### [[Durduk]] [[Enkh]] [[Ulfric]] [[Vex]] [[Ghost]] [[Fabio]] vs Remoraz, Ribelli [[Albinos]]
+#### [[Durduk]] [[Enkh]] [[Ulfric]] [[Wex]] [[Ghost]] [[Fabio]] vs Remoraz, Ribelli [[Albinos]]
 [[Fabio]] cerca di comunicare con gli altri, ma tutto sembra inutile fino alla parola: [[Seleniti]]. 
 
 Infine [[Fabio]] ha un sogno

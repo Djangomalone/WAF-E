@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "We Are Fantasy 2/Personaggi/Popolazioni e organizzazioni/Stormoyer.md",
+            "file": "We Are Fantasy 2/Personaggi/NPC/Belial del Cardinal Control di New Babylon.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "We Are Fantasy 2/Personaggi/Popolazioni e organizzazioni/Stormoyer.md",
+                "file": "We Are Fantasy 2/Personaggi/NPC/Belial del Cardinal Control di New Babylon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,19 +84,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "62db32999329ec52",
   "lastOpenFiles": [
-    "We Are Fantasy 2/Personaggi/Popolazioni e organizzazioni/Stormoyer.md",
-    "We Are Fantasy 2/Personaggi/Popolazioni e organizzazioni/Seleniti.md",
-    "We Are Fantasy 2/Personaggi/Popolazioni e organizzazioni/Ronda abissale.md",
-    "We Are Fantasy 2/Personaggi/Popolazioni e organizzazioni/Firbolg.md",
-    "We Are Fantasy 2/Personaggi/NPC/Thorul.md",
-    "We Are Fantasy 2/Personaggi/NPC/Hilde.md",
-    "We Are Fantasy 2/Personaggi/NPC/Ghost.md",
     "We Are Fantasy 2/Personaggi/NPC/Belial del Cardinal Control di New Babylon.md",
+    "We Are Fantasy 2/Sessioni/Sessione 2.md",
+    "We Are Fantasy 2/Personaggi/Giocanti/Wex.md",
+    "We Are Fantasy 2/Personaggi/Giocanti/Enkh.md",
+    "We Are Fantasy 2/Sessioni/Sessione 1.md",
+    "We Are Fantasy 2/Luoghi/Betecoy.md",
     "We Are Fantasy 2/Luoghi/Melancholy.md",
-    "We Are Fantasy 2/Luoghi/Hvilested.md"
+    "We Are Fantasy 2/Sessioni/Presessione.md",
+    "We Are Fantasy 2/Personaggi/Popolazioni e organizzazioni/Stormoyer.md",
+    "We Are Fantasy 2/Personaggi/Popolazioni e organizzazioni/Seleniti.md"
   ]
 }

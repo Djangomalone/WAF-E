@@ -5,5 +5,5 @@ Cognome:
 Classe: Ladro
 Razza: Bugbear
 Provenienza: [[Orkanbunn]]
-Legami affettivi: [[Lambert]] (amico in affari), [[Enkh]], [[Fabio]], [[Ulfric]], [[Vex]] (Party)
+Legami affettivi: [[Lambert]] (amico in affari), [[Enkh]], [[Fabio]], [[Ulfric]], [[Wex]] (Party)
 Descrizione:

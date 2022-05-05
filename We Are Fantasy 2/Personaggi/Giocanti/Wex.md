@@ -1,6 +1,6 @@
-Tag: #personaggio
+Tag: #personaggio #[[aldriland]] #[[stormoyer]] #eternogelo 
 Giocatore: Catto
-Nome: [[Vex]]
+Nome: Wex
 Cognome: 
 Classe: Mago delle Illusioni
 Razza: Umano

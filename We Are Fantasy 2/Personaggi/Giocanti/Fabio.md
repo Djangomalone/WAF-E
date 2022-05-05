@@ -1,4 +1,4 @@
-Tag: #personaggio
+Tag: #personaggio #[[oznia]] #eternogelo 
 Giocatore: Fabio
 Nome: Fabio
 Cognome: 

@@ -1,2 +1,2 @@
-Tag: #luoghi 
-Il centro del mondo, dove persone, razze, merci confluiscono, insieme alle ricchezze di ogni genere.
+Tag: #luoghi #isola #absula
+Il centro del mondo, dove persone, razze, merci confluiscono, insieme alle ricchezze di ogni genere. Esiste da circa 20 anni, ed è un'isola sulle rotte centrali tra [[Begnion]] e [[Ferox]], a Sud del primo. Tutti possono farsi una vita da zero, ma per arrivarci bisogna passare per [[Begnion]]. 

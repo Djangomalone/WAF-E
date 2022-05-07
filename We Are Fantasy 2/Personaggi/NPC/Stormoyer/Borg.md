@@ -1,6 +1,6 @@
 Tag: #NPC #[[stormoyer]] #eternogelo 
 Nome: Borg
-Cognome: 
+Cognome: Saltvann
 Classe: Mago (?)
 Razza: Umano
 Provenienza: [[Orkanbunn]]

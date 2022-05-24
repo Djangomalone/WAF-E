@@ -4,6 +4,6 @@ Cognome:
 Classe: Guerriero
 Razza: Umano
 Provenienza: [[Orkanbunn]]
-Titoli: Thain di [[Siste Gerde]]
+Titoli: Thane di [[Siste Gerde]]
 Legami affettivi:
 Descrizione: insieme ad un uomo robusto con un elmo di stornione

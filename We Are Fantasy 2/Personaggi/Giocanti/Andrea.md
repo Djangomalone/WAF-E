@@ -1,4 +1,4 @@
-Tag: #personaggio #[[oznia]]
+Tag: #personaggio #[[Oznia]]
 Giocatore: Andrea
 Nome: Andrea
 Cognome: 

@@ -2,8 +2,7 @@ Data: 14/04/2022
 Sessione precedente: [[Presessione]]
 Sessione sucessiva: [[Sessione 2]]
 Personaggi in gioco: [[Ulfric]] [[Durduk]] [[Enkh]] [[Wex]] [[Fabio]]
-Npc: [[Ron]] [[Gandr]] 
-Luoghi: [[Siste Gerde]], Strada per [[Melankoli]]
+Luoghi: [[Siste Gerde]], [[Siste Gerde]]-[[Hvilested]]
 Tag: #sessione 
 
 ---

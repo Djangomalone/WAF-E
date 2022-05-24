@@ -4,6 +4,6 @@ Cognome: Heltgard
 Classe: 
 Razza: Umano
 Provenienza: [[Hvilested]]
-Titoli: Thain di [[Hvilested]]
+Titoli: Thane di [[Hvilested]]
 Legami affettivi: 
 Descrizione: 

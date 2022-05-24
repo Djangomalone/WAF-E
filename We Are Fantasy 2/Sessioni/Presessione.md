@@ -2,7 +2,6 @@ Data: 28/03/2022
 Sessione precedente:
 Sessione sucessiva: [[Sessione 1]]
 Personaggi in gioco: [[Ulfric]] [[Wex]] [[Enkh]] [[Durduk]]
-Npc: [[Thorul]], [[Hagard]], [[Gandr]], [[Borg]], [[Hun]], [[Lambert]], [[Ron]], [[Thorstein]], [[Gunnar]], [[Jorah]]
 Luoghi:
 Tag: #sessione
 

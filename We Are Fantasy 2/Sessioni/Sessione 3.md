@@ -45,3 +45,4 @@ Dopo una lunga battaglia, tra arcieri, guardie e un Capoblepas, il party investi
 >Devo cambiare piani, devo chiedere rinforzi a Monk
 
 La cosa che lascia tutti di stucco è che apre un portale, dicendo "Teleport apriti" in selenita, mandando [[Fabio]] in ira totale.
+E Catto è leggermente gay, ma non quanto crotti

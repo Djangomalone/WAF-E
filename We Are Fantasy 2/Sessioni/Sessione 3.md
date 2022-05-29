@@ -44,5 +44,4 @@ Si svegliano con le tapparelle che sbattono e hanno 1 livello di Exaustation. [[
 Dopo una lunga battaglia, tra arcieri, guardie e un Capoblepas, il party investiga nelle stanze prima di andare verso il boss finale. Si trova una bacchetta in metallo fuso (bacchetta dei fulmini), pozioni di cura, spada lunga con intarsi viola a metà lama (spada spietata), rubino da pomo, un'armatura fullplate maledetta. In fondo al dungeon, una donna [[Firbolg]], probabilmente Albinos, sporca di sangue, che spaventa quasi tutti. Riconosce l'inviato del [[Gal]] e il suo servitore. Dopo una battaglia incredibile, [[Fabio]] è l'unico vincitore. La luna schiarisce il campo di battaglia, gli eroi si rialzano, ma dall'altra parte della stanza compare [[Gunnar]], attraverso il portone. 
 >Devo cambiare piani, devo chiedere rinforzi a Monk
 
-La cosa che lascia tutti di stucco è che apre un portale, dicendo "Teleport apriti" in selenita, mandando [[Fabio]] in ira totale.
-E Catto è leggermente gay, ma non quanto crotti
+La cosa che lascia tutti di stucco è che apre un portale, dicendo "Teleport apriti" in selenita e attivando un casco del teletrasporto, mandando [[Fabio]] in ira totale.

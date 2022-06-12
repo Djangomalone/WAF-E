@@ -1,2 +1,2 @@
 Tag: #[[Seleniti]] 
-Progetto non chiaro dei [[Seleniti]]
+Il software dei [[Seleniti]] che controllava tutto il terreno della terra. 

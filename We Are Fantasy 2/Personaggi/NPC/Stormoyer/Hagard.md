@@ -1,4 +1,4 @@
-Tag: #NPC #[[stormoyer]] 
+Tag: #NPC #[[Stormoyer]] 
 Nome: Hagard
 Cognome: Håndskiærer
 Classe: Barbaro (?)

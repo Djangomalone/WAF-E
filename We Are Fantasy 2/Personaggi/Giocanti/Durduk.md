@@ -1,4 +1,4 @@
-Tag: #personaggio #bugbear #eternogelo #[[stormoyer]] 
+Tag: #personaggio #bugbear #eternogelo #[[Stormoyer]] 
 Giocatore: Ago
 Nome: Durduk
 Cognome: 

@@ -1,4 +1,4 @@
-Tag: #personaggio #[[aldriland]] #[[stormoyer]] #eternogelo 
+Tag: #personaggio #[[aldriland]] #[[Stormoyer]] #eternogelo 
 Giocatore: Catto
 Nome: Wex
 Cognome: 

@@ -1,9 +1,9 @@
 Tag: #NPC #[[Stormoyer]] #eternogelo 
-Nome: Thor
-Cognome: Heltgard
+Nome: Lagarn
+Cognome: 
 Classe: 
 Razza: Umano
-Provenienza: [[Hvilested]]
-Titoli: Thane di [[Hvilested]]
+Provenienza: [[Magergard]]
+Titoli: Capitano di [[Magergard]]
 Legami affettivi: 
 Descrizione: 

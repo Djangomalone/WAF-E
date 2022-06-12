@@ -6,17 +6,60 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"We Are Fantasy 2/Sessioni\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"We Are Fantasy 2/Personaggi/NPC\"",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"We Are Fantasy 2/Personaggi/Giocanti\"",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"We Are Fantasy 2/Luoghi\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431518
+      }
+    },
+    {
+      "query": "path:\"We Are Fantasy 2/Personaggi/Popolazioni e organizzazioni\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701269
+      }
+    },
+    {
+      "query": "path:\"We Are Fantasy 2/Personaggi/Divinità\"",
+      "color": {
+        "a": 1,
+        "rgb": 15652220
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 0.998689956331878,
+  "lineSizeMultiplier": 1.04148471615721,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.634628567693059,
+  "centerStrength": 0.497816593886463,
+  "repelStrength": 9.86899563318777,
+  "linkStrength": 0,
+  "linkDistance": 254,
+  "scale": 0.46283544177441305,
   "close": true
 }

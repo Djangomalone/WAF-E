@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1f1faf46c426ed89",
+        "id": "66b9784e4a1c4bf8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "We Are Fantasy 2/Sessioni/Sessione 4.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[[[",
+                "query": "thain",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "We Are Fantasy 2/Sessioni/Sessione 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,20 +79,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "1f1faf46c426ed89",
+  "active": "66b9784e4a1c4bf8",
   "lastOpenFiles": [
-    "We Are Fantasy 2/Sessioni/Sessione 4.md",
-    "We Are Fantasy 2/Sessioni/Sessione 3.md",
-    "We Are Fantasy 2/Personaggi/Popolazioni e organizzazioni/Stormoyer/Ronda abissale.md",
     "We Are Fantasy 2/Personaggi/Popolazioni e organizzazioni/Stormoyer/Stormoyer.md",
+    "We Are Fantasy 2/Personaggi/Popolazioni e organizzazioni/Stormoyer/Ronda abissale.md",
     "We Are Fantasy 2/Personaggi/Popolazioni e organizzazioni/Seleniti/Seleniti.md",
     "We Are Fantasy 2/Personaggi/Popolazioni e organizzazioni/Seleniti/Project Hope.md",
     "We Are Fantasy 2/Personaggi/Popolazioni e organizzazioni/Seleniti/M.Y.M.I.R.md",
-    "We Are Fantasy 2/Personaggi/Popolazioni e organizzazioni/Seleniti/Hope.md",
+    "We Are Fantasy 2/Personaggi/Popolazioni e organizzazioni/Seleniti/EFTC.md",
+    "We Are Fantasy 2/Personaggi/Popolazioni e organizzazioni/Seleniti/EFCC Logo.jpeg",
     "We Are Fantasy 2/Personaggi/Popolazioni e organizzazioni/Seleniti/EFCC.md",
-    "We Are Fantasy 2/Personaggi/Popolazioni e organizzazioni/Seleniti/Cardinal Control.md"
+    "We Are Fantasy 2/Personaggi/Popolazioni e organizzazioni/Seleniti/Cardinal Control.md",
+    "We Are Fantasy 2/Personaggi/Popolazioni e organizzazioni/Firbolg/Firbolg.md"
   ]
 }

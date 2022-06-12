@@ -1,4 +1,4 @@
-Tag: #NPC #[[stormoyer]] #[[aldriland]] #eternogelo 
+Tag: #NPC #[[Stormoyer]] #[[aldriland]] #eternogelo 
 Nome: Thorul
 Cognome: Runerdedg
 Classe: Mago

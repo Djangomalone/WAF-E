@@ -1,4 +1,4 @@
-Tag: #NPC #[[stormoyer]] #eternogelo 
+Tag: #NPC #[[Stormoyer]] #eternogelo 
 Nome: Gunnar
 Cognome: Hjerstein
 Classe: 

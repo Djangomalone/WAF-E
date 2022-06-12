@@ -1,4 +1,4 @@
-Tag: #NPC #[[stormoyer]] #eternogelo 
+Tag: #NPC #[[Stormoyer]] #eternogelo 
 Nome: Thorstein
 Cognome: 
 Classe: Guerriero

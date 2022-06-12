@@ -23,7 +23,7 @@ Al centro della sala, un baldacchino con 6 schermi enormi mostrano una figura st
 Da un monitor, un'immagine annebbiata è piegata con un martello, che sembra stare forgiando con un martello. una figura femminile in un tubo riempito di gelatina sta fluttuando, attaccata a dei cavi.
 
 ---
-Il Party arriva nelle fattorie alla periferia di [[Melankoli]], [[Ulfric]] scende per primo. I passanti sono inizialmente spaventati, ma tornano al lavoro appena notano il Crest della [[Ronda Abissale]]. 
+Il Party arriva nelle fattorie alla periferia di [[Melankoli]], [[Ulfric]] scende per primo. I passanti sono inizialmente spaventati, ma tornano al lavoro appena notano il Crest della [[Ronda abissale]]. 
 Una pattuglia approccia a cavallo, chiedendo agli avventurieri della loro provenienza. identificando [[Ulfric]], vengono accolti e portati dentro [[Melankoli]] stessa, città molto arroccata fra le mura del castello del thane.
 L'ambiente sembra fermo, pregno di tensione con una fila parecchio lunga che sembra uscire dalla bottega di un droghiere.
 I 5 arrivano alla magione, e vengono invitati a scendere. [[Fabio]] tenta di mascherarsi con una tunica. Le guardie sono stranite dalla presenza di [[Enkh]] e [[Durduk]], ma li fanno passare comunque.

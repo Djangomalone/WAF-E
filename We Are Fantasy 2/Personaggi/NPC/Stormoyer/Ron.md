@@ -1,4 +1,4 @@
-Tag: #NPC #[[stormoyer]] #eternogelo #orco
+Tag: #NPC #[[Stormoyer]] #eternogelo #orco
 Nome: Ron
 Cognome: 
 Classe: Barbaro

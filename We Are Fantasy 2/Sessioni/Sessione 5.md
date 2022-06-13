@@ -2,7 +2,7 @@ Data: 12/06/2022
 Sessione precedente: [[Sessione 4]]
 Sessione sucessiva: [[Sessione 6]]
 Personaggi in gioco: [[Ulfric]] [[Durduk]] [[Enkh]] [[Wex]] [[Fabio]]
-Luoghi: 
+Luoghi: [[Siste Gerde]]
 Tag: #sessione 
 
 ---
@@ -50,3 +50,5 @@ Enkh si sveglia di soprassalto e aggredisce Durduk, chiedendogli dove si trova L
 ---
 Post credit
 Palude con mangrovie gigantesche. Nebbia copre tutto. Figure ranoidi nerastre e scattanti, paiono dei ninja. Alcune corrono, altre nuotano. 5 individui si stagliano in mezzo ad un pozzo. 5, ma prima erano 6. Mentre gli altri li circondano, uno dei 5, un bambino, ha gli occhi neri e comincia a levitare con scariche elettriche intorno. Comincia a intonare una litaniza, alza il braccio destro il pollice si stacca insieme alle altre dita. Da piume a esoscheletro, con proboscide da zanzara, scarica elettrica che parte dal cielo poi arrivano pietre e fuoco dal cielo. 3 chilometri vengono vaporizzati dal calore. Il ragazzino è l'unico rimasto, parzialmente mutato nel corpo. Osserva la distruzione. 
+
+Hey ale chapeau bella campagna

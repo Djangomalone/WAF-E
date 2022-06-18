@@ -1,4 +1,4 @@
-Tag: #NPC #[[Stormoyer]] #eternogelo 
+
 Nome: Ragnar
 Cognome: Handskier
 Classe: 

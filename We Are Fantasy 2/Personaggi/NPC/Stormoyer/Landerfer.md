@@ -1,4 +1,4 @@
-Tag: #NPC #[[Stormoyer]] #eternogelo 
+
 Nome: Landerfer
 Cognome: 
 Classe: 

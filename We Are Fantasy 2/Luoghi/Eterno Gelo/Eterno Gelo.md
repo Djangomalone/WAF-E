@@ -1,3 +1,10 @@
-Tag: #luoghi #eternogelo #continente
-Continente gelido, una sorta di Siberia/Groenlandia popolata dai [[Firbolg]].
-Si trova a Nord di [[Orkanbunn]]
+
+# Eterno Gelo
+Tipologia: Continente
+Continente: Eterno Gelo
+Riferimenti geografici: 
+* Nord: 
+* Sud: [[Stormoyer (arcipelago)]]
+* Est: 
+* Ovest: 
+Descrizione: Continente gelido, una sorta di Siberia/Groenlandia popolata dai [[Firbolg]].

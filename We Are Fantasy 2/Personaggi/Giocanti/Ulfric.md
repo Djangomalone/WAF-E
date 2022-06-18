@@ -1,4 +1,3 @@
-Tag: #personaggio #[[Stormoyer]] #eternogelo 
 Giocatore: Leo
 Nome: Ulfric
 Cognome: Hagardsson

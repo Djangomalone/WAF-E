@@ -1,4 +1,4 @@
-tag: #dungeon
+# Accampamento di Gunnar
 Dungeon affrontato nella [[Sessione 3]]
 Tenda composta da tre parti principali:
 - Ingresso buio con trappola a pressione che ti fa scivolare su spunzoni affilati
@@ -9,5 +9,5 @@ Tenda composta da tre parti principali:
 	- Stanza 4: stanza con scatole
 	- Stanza 5: stanza in cui si affacciano tutte e che porta all'arena
 - Arena del boss
-Loot: Bacchetta dei fulmini rubino da pomo (stanza 2), spada spietata e armatura fullplate (stanza 3), pozioni (stanza 4), 
+Loot: Bacchetta dei fulmini, rubino da pomo (stanza 2), spada spietata e armatura fullplate (stanza 3), pozioni (stanza 4), 
 Nemici: guardie, arcieri, Catoblepas, Strega Albinos

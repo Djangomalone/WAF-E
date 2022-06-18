@@ -1,2 +1,9 @@
-Tag: #luoghi #eternogelo 
-Città nella provincia ad Ovest di [[Siste Gerde]] in contatto con i [[Firbolg]], in espansione e produttrice di cibo.
+# Melankoli
+Tipologia: Città
+Continente: [[Eterno Gelo]]
+Riferimenti geografici: 
+* Nord: 
+* Sud: [[Magergard]]
+* Est: [[Portvtenretvr]]
+* Ovest: [[Hvilested]]
+Descrizione: Città in espansione e produttrice di cibo.

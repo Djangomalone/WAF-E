@@ -1,4 +1,3 @@
-Tag: #personaggio #[[Oznia]] #eternogelo 
 Giocatore: Fabio
 Nome: Fabio
 Cognome: 

@@ -1,4 +1,4 @@
-Tag: #NPC #[[Stormoyer]] #eternogelo 
+
 Nome: Khogshim
 Cognome: Shulam
 Classe: Mago 

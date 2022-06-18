@@ -1,4 +1,4 @@
-Tag: #NPC #[[Stormoyer]] #eternogelo 
+
 Nome: Gandr
 Cognome: Hjerstein
 Classe: 

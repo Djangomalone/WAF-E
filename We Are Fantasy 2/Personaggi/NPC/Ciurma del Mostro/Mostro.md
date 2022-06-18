@@ -1,4 +1,4 @@
-Tag: #NPC #mostro #orco
+
 Nome: 
 Cognome: 
 Classe: Barbaro

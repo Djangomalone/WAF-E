@@ -1,4 +1,3 @@
-Tag: #personaggio #[[Firbolg]] #eternogelo 
 Giocatore: Nick
 Nome: Enkh
 Cognome: 

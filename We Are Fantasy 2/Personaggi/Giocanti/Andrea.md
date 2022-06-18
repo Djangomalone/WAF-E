@@ -1,9 +1,8 @@
-Tag: #personaggio #[[Oznia]]
 Giocatore: Andrea
 Nome: Andrea
 Cognome: 
 Classe: 
 Razza: Umano
-Provenienza: 
-Legami affettivi: 
+Provenienza:  [[Oznia]]
+Legami affettivi: [[Cemek]] (party)
 Descrizione:

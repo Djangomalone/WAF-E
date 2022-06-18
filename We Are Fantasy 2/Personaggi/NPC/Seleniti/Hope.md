@@ -1,4 +1,4 @@
-Tag: #NPC #[[Seleniti]] #cardinalcontrol
+
 Nome: Paimon (?)
 Cognome: 
 Classe: Dio

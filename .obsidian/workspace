@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "66b9784e4a1c4bf8",
+        "id": "b5ee9e9b41b5fd31",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "We Are Fantasy 2/Sessioni/Sessione 5.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Capital",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "We Are Fantasy 2/Sessioni/Sessione 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,20 +79,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "66b9784e4a1c4bf8",
+  "active": "b5ee9e9b41b5fd31",
   "lastOpenFiles": [
-    "We Are Fantasy 2/Sessioni/Sessione 5.md",
-    "We Are Fantasy 2/Personaggi/Popolazioni e organizzazioni/Seleniti/M.Y.M.I.R.md",
-    "We Are Fantasy 2/Luoghi/Eterno Gelo/Eterno Gelo Mappa.jpeg",
-    "We Are Fantasy 2/Sessioni/Sessione 4.md",
-    "We Are Fantasy 2/Personaggi/NPC/Ciurma del Mostro/Lambert.md",
-    "We Are Fantasy 2/Personaggi/NPC/Stormoyer/Ron.md",
-    "We Are Fantasy 2/Personaggi/Giocanti/Wex.md",
-    "We Are Fantasy 2/Personaggi/Giocanti/Ulfric.md",
-    "We Are Fantasy 2/Personaggi/Giocanti/Fabio.md",
-    "We Are Fantasy 2/Personaggi/Giocanti/Enkh.md"
+    "We Are Fantasy 2/Personaggi/NPC/Seleniti/Lestar.md",
+    "We Are Fantasy 2/Personaggi/NPC/Seleniti/Destar.md",
+    "Legenda.md",
+    "We Are Fantasy 2/Personaggi/Giocanti/Alex.md",
+    "We Are Fantasy 2/Luoghi/Tepee di Pun Pun.md",
+    "We Are Fantasy 2/Luoghi/Ferox.md",
+    "We Are Fantasy 2/Luoghi/Begnion.md",
+    "We Are Fantasy 2/Luoghi/Aldriland.md",
+    "We Are Fantasy 2/Luoghi/Absula.md",
+    "We Are Fantasy 2/Luoghi/Stormoyer/Stormoyer (arcipelago).md"
   ]
 }

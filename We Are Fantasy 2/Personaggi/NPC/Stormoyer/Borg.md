@@ -1,4 +1,4 @@
-Tag: #NPC #[[Stormoyer]] #eternogelo 
+
 Nome: Borg
 Cognome: Saltvann
 Classe: Mago (?)

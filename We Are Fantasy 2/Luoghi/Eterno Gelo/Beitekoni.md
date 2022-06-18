@@ -1,2 +1,12 @@
-Tag: #luoghi #eternogelo
-Avamposto ad Ovest di [[Siste Gerde]]
+# Beitekoni
+
+Tipologia: Città
+Continente: [[Eterno Gelo]]
+
+Riferimenti geografici: 
+* Nord:
+* Sud: Mare
+* Est: [[Siste Gerde]]
+* Ovest: 
+
+Descrizione:

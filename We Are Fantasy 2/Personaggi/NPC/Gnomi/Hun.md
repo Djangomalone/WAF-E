@@ -1,4 +1,4 @@
-Tag: #NPC #gnomo #[[aldriland]] #[[Stormoyer]] #eternogelo 
+
 Nome: Hun
 Cognome: 
 Classe: Mago

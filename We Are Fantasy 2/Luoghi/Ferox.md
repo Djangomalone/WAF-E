@@ -1,2 +1,9 @@
-#luoghi #isola #continente #ferox
-Insieme di isole poste ad est di [[Oznia]] e ad ovest di [[Begnion]]
+# Ferox
+Tipologia: Continente
+Continente: Ferox
+Riferimenti geografici: 
+* Nord: [[Eterno Gelo]]
+* Sud: 
+* Est: [[Begnion]]
+* Ovest: [[Oznia]]
+Descrizione: Insieme di isole abitate da ricchi mercanti.

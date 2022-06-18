@@ -1,4 +1,4 @@
-Tag: #NPC #[[mostro]]
+
 Nome: Lambert
 Cognome: brancolatore
 Classe: Ladro (?)

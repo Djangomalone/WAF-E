@@ -1,4 +1,4 @@
-
+# Thorstein
 Nome: Thorstein
 Cognome: 
 Classe: Guerriero
@@ -7,3 +7,4 @@ Provenienza: [[Orkanbunn]]
 Titoli: Thane di [[Siste Gerde]]
 Legami affettivi:
 Descrizione: insieme ad un uomo robusto con un elmo di stornione
+Lore:

@@ -6,4 +6,4 @@ Riferimenti geografici:
 * Sud: Begnon
 * Est: 
 * Ovest: 
-Descrizione: Insieme di isole abitate da più razze e dal popolo degli Stormoyer.
+Descrizione: Insieme di isole abitate da più razze e dal popolo degli [[Stormoyer]].

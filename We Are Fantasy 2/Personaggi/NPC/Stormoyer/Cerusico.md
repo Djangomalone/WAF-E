@@ -1,4 +1,4 @@
-
+# Cerusico
 Nome: ?
 Cognome: 
 Classe: 
@@ -7,3 +7,4 @@ Provenienza: [[Melankoli]]
 Titoli: 
 Legami affettivi: [[Undel]] (fratello)
 Descrizione: Cerusico della città di [[Melankoli]], fratello di [[Undel]]. Morto nell'assedio di [[Melankoli]].
+Lore:

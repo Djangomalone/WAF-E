@@ -1,4 +1,4 @@
-
+# Jorah
 Nome: Jorah
 Cognome: 
 Classe: 
@@ -7,3 +7,4 @@ Provenienza: [[Orkanbunn]]
 Titoli: Ultimo sopravvissuto allo scontro con Bael
 Legami affettivi: 
 Descrizione: 
+Lore:

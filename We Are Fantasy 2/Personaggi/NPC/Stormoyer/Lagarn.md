@@ -1,4 +1,4 @@
-
+# Lagarn
 Nome: Lagarn
 Cognome: 
 Classe: 
@@ -7,3 +7,4 @@ Provenienza: [[Magergard]]
 Titoli: Capitano di [[Magergard]]
 Legami affettivi: 
 Descrizione: 
+Lore:

@@ -6,6 +6,7 @@ Luoghi:
 Tag: #sessione 
 
 ---
+### L'investigazione
 Cercando di fermare [[Gunnar]], [[Fabio]] [[Ulfric]] e [[Durduk]] si ritrovano faccia a terra. Sono tutti delusi dalla fuga di [[Gunnar]] stesso. [[Enkh]] trova nel luogo della morte della strega, un bastone nodoso, con una mano [[Firbolg]] rachitica. Analizzando scopre che si tratta di un bastone degli Albinos, che celebra il [[Noirmog]] e [[Enkh]] non vuole sintonizzarsi con esso. Proseguendo l'accampamento fa come per andare sotto terra, ma il gruppo si accorge di una scala che sale e decidono di prenderla. Arrivano in uno studio, con una finestra strana... una sorta di vetro trasparente, ma che fa vedere anche l'entrata dell'accampamento in tempo reale. [[Durduk]] trova una porta nascosta, mentre Vex indaga sui fogli che ci sono nella stanza, dove ci sono i conteggi dell'esercito. Migliaia di persone, contro i miseri plotoni di [[Siste gerde]]. Si trovano due lettere, una aperta, con il sigillo [[EFCC]], una chiusa con il sigillo di [[Gandr]] (rubata nella [[Presessione]]):
 la lettera aperta è scritta in ottima calligrafia 
 >Spero che gli aiuti medici vi siano d'aiuto per aggiungere persone alla vostra causa e per il futuro del vostro popolo.
@@ -26,9 +27,11 @@ Quando [[Fabio]] prende in mano la cartapecora, cade un foglio piegato, quasi un
 Dopodiché il party esce dalla porta trovata da [[Durduk]] e si torna in città.
 
 ---
+### Brutte Notizie
 Arrivati a [[Melankoli]], il gruppo scopre cadaveri di Catoblepas squagliati e pire fuori dalle mura. La città è mezza distrutta, compresa la locanda e l'emporio del [[cerusico]] (godo come il pazzo). Il party incontra [[Landerfer]], che racconta come i Catoblepas sono morti, Albinos in ritirata e i ribelli rimasti a combattere si sono suicidati piuttosto che parlare con le guardie. Brutte perdite nella guardia cittadina, pochi fra i civili. Viene messo al corrente, ma nel giro di poco arriva una lettera da [[Portvtenretvr]], dove il thane locale intima alla città di arrendersi, altrimenti perire. La città dev'essere evaquata, il thane rimarrà indietro con una parte della guarnigione mentre il party manderà avanti la carovana. Il thane consegna il suo pugnale alla moglie. 700 persone da guidare verso [[Hvilested]] e poi [[Siste Gerde]].
 
 ---
+### L'esodo
 Passano due settimane di viaggio, con [[Ulfric]] che parla dello [[Stormoyer]] e [[Fabio]] che racconta la sua storia a [[Ulfric]] [[Durduk]] e [[Wex]]. [[Enkh]] invece cerca di entrare in contatto con il [[Gal]] e fissa il bastone della vecchia strega. A tre giorni da [[Hvilested]], tutti sentono un terremoto, ma non succede nulla di più. In tutto questo, il foglio indecifrare di [[Fabio]] si riempie di parole:
 > riga coperta
 > con lo sguardo colmo di rabbia rivolto verso l'ordine
@@ -48,9 +51,10 @@ Passano due settimane di viaggio, con [[Ulfric]] che parla dello [[Stormoyer]] e
 > riga coperta
 > tratto da M----- 
 
-[[Durduk]] e [[Fabio]] parlano dei [[Seleniti]] e il sogno di [[Durduk]], con una strana conversazione scientifica. 
+[[Durduk]] e [[Fabio]] parlano dei [[Seleniti]] e il [[Sessione 2#Il sogno di Durduk]], con una strana conversazione scientifica. 
 
 ---
+### 
 Il giorno dopo, fumo si leva da [[Hvilested]]. [[Enkh]] usa un falco per vedere, e la città è completamente andata, zombie e cadaveri sono ovunque, ma nessun cadavere nemico. Da Sud arrivano i rinforzi da [[Magergard]]. Dopo aver tranquillizzato la carovana, il party parte per andare verso la città. Il party va verso il plotone e li informa della battaglia imminente e facciamo la conoscenza del capitano [[Lagarn]]. 
 #### [[Enkh]], [[Durduk]], [[Wex]], [[Ulfric]], [[Fabio]] vs Zombi
 Dopo il combattimento, [[Enkh]] capisce che c'è un solco immenso che divide a metà la città. Trovano dentro una casa [[Thor Heltgard]] morente, che gli dice che sono stati attaccati da un essere con un'arma a forma di Falange, come un dito. I corpi trovati sono drenati di tutto, anche della poca magia che hanno e guarda caso non sono diventati zombi. La carovana è affidata al plotone di [[Magergard]] e alle cure del capitano [[Lagarn]] che porterà tutti verso [[Melankoli]]. Nel frattempo [[Wex]] indaga, e capisce il punto di un'esplosione magica, ci sono tracce della figura. [[Enkh]] e [[Fabio]] lo raggiungono e insieme cercano di capire cos'è successo. Il terremoto sembra scollegato, così come l'uomo con la falange... forse un uomo e una donna. [[Enkh]] manda il falco a vedere il solco, ma nonostante l'incantesimo duri un'ora il solco continua ancora. Si parte con i cavalli.

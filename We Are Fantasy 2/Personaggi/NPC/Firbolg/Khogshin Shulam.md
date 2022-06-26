@@ -1,4 +1,4 @@
-
+# Khogshin Shulam
 Nome: Khogshim
 Cognome: Shulam
 Classe: Mago 
@@ -7,3 +7,4 @@ Provenienza:
 Titoli: Sacerdotessa del [[Noirmog]]
 Legami affettivi: 
 Descrizione: 
+Lore:

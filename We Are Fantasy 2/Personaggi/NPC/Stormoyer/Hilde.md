@@ -1,4 +1,4 @@
-
+# Hilde
 Nome: Hilde
 Cognome: Hagardottir
 Classe: Maga (?)
@@ -7,3 +7,4 @@ Provenienza: [[Orkanbunn]]
 Titoli: 
 Legami affettivi: [[Ulfric]] (fratello), [[Hagard]] (padre), [[Borg]] (zio), [[Thorul]] (maestro), [[Gandr]] (marito)
 Descrizione: una bambina bionda con gli occhi azzurri
+Lore:

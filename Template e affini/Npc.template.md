@@ -7,3 +7,4 @@ Provenienza:
 Titoli: 
 Legami affettivi:
 Descrizione:
+Lore:

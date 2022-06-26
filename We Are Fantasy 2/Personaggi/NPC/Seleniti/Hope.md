@@ -1,4 +1,4 @@
-
+# Hope
 Nome: Paimon (?)
 Cognome: 
 Classe: Dio
@@ -7,3 +7,4 @@ Provenienza: ???
 Titoli: 
 Legami affettivi: [[Belial]] (fratello?)
 Descrizione: 
+Lore:

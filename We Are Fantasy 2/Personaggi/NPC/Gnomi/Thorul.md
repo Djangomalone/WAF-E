@@ -1,4 +1,4 @@
-
+# Thorul
 Nome: Thorul
 Cognome: Runerdedg
 Classe: Mago
@@ -7,3 +7,4 @@ Provenienza: [[Aldriland]]
 Titoli: Mago di corte
 Legami affettivi: [[Ulfric]] (protetto), [[Hilde]] (protetta), [[Hagard]] (signore)
 Descrizione: avvolto in una pelliccia di pecora, con un naso canino e dei piccoli cornini
+Lore:
